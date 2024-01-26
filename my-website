@@ -1,0 +1,10 @@
+server {
+    listen 80;
+    server_name my-website111.com;
+
+    location / {
+        root /var/www/my-website;
+        index index.html;
+    }
+}
+

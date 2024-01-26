@@ -57,5 +57,5 @@ sudo systemctl restart nginx
 ### 3. Access Your Website
 Visited my test website in a web browser: "my-website111.com" and it looks like: 
 
-![Alt текст] (https://ibb.co/rfGswYm)
+![Alt текст](https://ibb.co/rfGswYm)
 
